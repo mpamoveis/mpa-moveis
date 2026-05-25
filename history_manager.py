@@ -6,6 +6,7 @@ Registra: usuário, data, hora, produto, local e resultado.
 
 import json
 from datetime import datetime
+import pytz
 
 import gspread
 from google.oauth2.service_account import Credentials
@@ -77,7 +78,8 @@ class HistoryManager:
         """
         try:
             sheet = self._abrir_planilha()
-            agora = datetime.now()
+            fuso = pytz.timezone('America/Sao_Paulo')
+        agora = datetime.now(fuso)
             data  = agora.strftime("%d/%m/%Y")
             hora  = agora.strftime("%H:%M:%S")
 
