@@ -213,8 +213,8 @@ def carregar_engine():
 
 @st.cache_resource
 def carregar_history():
-    creds_json = os.getenv("GOOGLE_SHEETS_CREDS")
-    sheet_id   = os.getenv("GOOGLE_SHEET_ID")
+    creds_json = os.getenv("GOOGLE_SHEETS_CREDS") or st.secrets.get("GOOGLE_SHEETS_CREDS")
+    sheet_id   = os.getenv("GOOGLE_SHEET_ID") or st.secrets.get("GOOGLE_SHEET_ID")
     if not creds_json or not sheet_id:
         return None
     return HistoryManager(creds_json=creds_json, sheet_id=sheet_id)
