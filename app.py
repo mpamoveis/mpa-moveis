@@ -206,7 +206,8 @@ def carregar_engine():
     if not Path("data/index/nrs.index").exists():
         Path("data/index").mkdir(parents=True, exist_ok=True)
         with st.spinner("Gerando índice das NRs pela primeira vez — pode levar alguns minutos..."):
-            subprocess.run(["python", "build_index.py"], check=True)
+            import sys
+            subprocess.run([sys.executable, "build_index.py"], check=True)
     return RAGEngine(gemini_api_key=api_key)
 
 
