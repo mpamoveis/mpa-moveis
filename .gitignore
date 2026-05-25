@@ -1,0 +1,25 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Variáveis de ambiente — NUNCA subir para o GitHub
+.env
+
+# Índice FAISS — regenerado pelo build_index.py
+data/index/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Cache do Streamlit
+.streamlit/secrets.toml
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/

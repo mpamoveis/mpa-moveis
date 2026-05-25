@@ -1,0 +1,10 @@
+faiss-cpu==1.14.2
+google-genai==2.6.0
+gspread==6.2.1
+numpy==2.4.6
+pypdf==6.12.1
+python-dotenv==1.2.2
+sentence-transformers==5.5.1
+streamlit==1.57.0
+torch==2.12.0
+torchvision==0.27.0
