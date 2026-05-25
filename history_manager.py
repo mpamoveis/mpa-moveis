@@ -79,7 +79,7 @@ class HistoryManager:
         try:
             sheet = self._abrir_planilha()
             fuso = pytz.timezone('America/Sao_Paulo')
-        agora = datetime.now(fuso)
+            agora = datetime.now(fuso)
             data  = agora.strftime("%d/%m/%Y")
             hora  = agora.strftime("%H:%M:%S")
 
