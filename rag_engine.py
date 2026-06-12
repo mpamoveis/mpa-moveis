@@ -165,6 +165,7 @@ Os textos COMPLETOS das NRs estão abaixo. Você DEVE:
 3. NUNCA inventar ou completar subitens que não estejam no texto fornecido
 4. Se não encontrar o subitem exato, escreva "conforme NR-24" sem número específico
 5. Especificações numéricas (medidas, proporções) APENAS se aparecerem no texto abaixo
+6. FORMATO PROIBIDO: subitens com 3 ou mais níveis numéricos sequenciais tipo "24.2.1.1", "24.2.1.2"... NÃO EXISTEM na NR-24. Os subitens reais são como: 24.2.1, 24.2.2, 24.3.1, 24.4.6.1, 24.7.3 — verifique no texto antes de citar qualquer número.
 
 As NRs estão em ordem de prioridade — comece sempre pela NR-24:
 
@@ -225,6 +226,7 @@ Responda EXATAMENTE neste formato:
 ATENÇÃO — REGRA ANTI-ALUCINAÇÃO (PRIORIDADE MÁXIMA):
 Cite APENAS subitens que apareçam LITERALMENTE nos textos das NRs abaixo.
 NUNCA invente subitens. Em dúvida, cite apenas "NR-24" sem número específico.
+FORMATO PROIBIDO: subitens sequenciais tipo "24.2.1.1", "24.2.1.2"... não existem na NR-24. Subitens reais: 24.2.1, 24.3.1, 24.4.6.1, 24.7.3 — verifique no texto.
 
 Textos completos das NRs (em ordem de prioridade):
 
@@ -348,6 +350,7 @@ Os textos COMPLETOS das NRs estão abaixo. Você DEVE:
 2. NUNCA inventar ou completar subitens
 3. Especificações numéricas APENAS se aparecerem no texto das NRs abaixo
 4. Em dúvida, cite "NR-24" sem número de subitem
+5. FORMATO PROIBIDO: subitens sequenciais tipo "24.2.1.1", "24.2.1.2"... não existem na NR-24. Subitens reais: 24.2.1, 24.3.1, 24.4.6.1, 24.7.3 — verifique no texto antes de citar.
 
 Textos completos das NRs (ordem de prioridade — NR-24 primeiro):
 
