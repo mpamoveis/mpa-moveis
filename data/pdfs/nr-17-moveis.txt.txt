@@ -1,0 +1,66 @@
+NR 17 - Ergonomia
+
+17.6.1 O conjunto do mobiliário do posto de trabalho deve apresentar regulagens em um ou mais de seus elementos que permitam adaptá-lo às características antropométricas que atendam ao conjunto dos trabalhadores envolvidos e à natureza do trabalho a ser desenvolvido.
+
+17.6.2 Sempre que o trabalho puder ser executado alternando a posição de pé com a posição sentada, o posto de trabalho deve ser planejado ou adaptado para favorecer a alternância das posições.
+
+17.6.3 Para trabalho manual, os planos de trabalho devem proporcionar ao trabalhador condições de boa postura, visualização e operação e devem atender aos seguintes requisitos mínimos:
+a) características dimensionais que possibilitem posicionamento e movimentação dos segmentos corporais de forma a não comprometer a saúde e não ocasionar amplitudes articulares excessivas ou posturas nocivas de trabalho;
+b) altura e características da superfície de trabalho compatíveis com o tipo de atividade, com a distância requerida dos olhos ao campo de trabalho e com a altura do assento;
+c) área de trabalho dentro da zona de alcance manual e de fácil visualização pelo trabalhador;
+d) para o trabalho sentado, espaço suficiente para pernas e pés na base do plano de trabalho, para permitir que o trabalhador se aproxime o máximo possível do ponto de operação e possa posicionar completamente a região plantar, podendo utilizar apoio para os pés, nos termos do item 17.6.4; e
+e) para o trabalho em pé, espaço suficiente para os pés na base do plano de trabalho, para permitir que o trabalhador se aproxime o máximo possível do ponto de operação e possa posicionar completamente a região plantar.
+
+17.6.3.1 A área de trabalho dentro da zona de alcance máximo pode ser utilizada para ações que não prejudiquem a segurança e a saúde do trabalhador, sejam elas eventuais ou também, conforme AET, as não eventuais.
+
+17.6.4 Para adaptação do mobiliário às dimensões antropométricas do trabalhador, pode ser utilizado apoio para os pés sempre que o trabalhador não puder manter a planta dos pés completamente apoiada no piso.
+
+17.6.6 Os assentos utilizados nos postos de trabalho devem atender aos seguintes requisitos mínimos:
+a) altura ajustável à estatura do trabalhador e à natureza da função exercida;
+b) sistemas de ajustes e manuseio acessíveis;
+c) características de pouca ou nenhuma conformação na base do assento;
+d) borda frontal arredondada; e
+e) encosto com forma adaptada ao corpo para proteção da região lombar.
+17.6.7 Para as atividades em que os trabalhos devam ser realizados em pé, devem ser colocados assentos com encosto para descanso em locais em que possam ser utilizados pelos trabalhadores durante as pausas.
+
+17.6.7.1 Os assentos previstos no item 17.6.7 estão dispensados do atendimento ao item 17.6.6.
+
+Condições Sanitárias de Conforto
+
+8.1 Devem ser garantidas boas condições sanitárias e de conforto, incluindo sanitários permanentemente adequados ao uso e separados por sexo, local para lanche e armários individuais dotados de chave para guarda de pertences na jornada de trabalho.
+
+8.2 Deve ser proporcionada a todos os trabalhadores disponibilidade irrestrita e próxima de água potável, além do disposto na Norma Regulamentadora nº 24 (NR 24) - Condições Sanitárias e de Conforto nos Locais de Trabalho.
+
+8.3 A organização deve manter ambientes confortáveis para descanso e recuperação durante as pausas, fora dos ambientes de trabalho, dimensionados em proporção adequada ao número de operadores usuários, onde estejam disponíveis assentos, facilidades de água potável, instalações sanitárias e lixeiras com tampa.
+17.7.3 Os equipamentos utilizados no processamento eletrônico de dados com terminais de vídeo devem permitir ao trabalhador ajustá-lo de acordo com as tarefas a serem executadas.
+
+17.7.3.1 Os equipamentos devem ter condições de mobilidade suficiente para permitir o ajuste da tela do equipamento à iluminação do ambiente, protegendo-a contra reflexos, e proporcionar corretos ângulos de visibilidade ao trabalhador.
+
+17.7.3.2 Nas atividades com uso de computador portátil de forma não eventual em posto de trabalho, devem ser previstas formas de adaptação do teclado, do mouse ou da tela a fim de permitir o ajuste às características antropométricas do trabalhador e à natureza das tarefas a serem executadas.  
+
+ANEXO II da NR 17 - TRABALHO EM TELEATENDIMENTO/TELEMARKETING  
+
+3.1 Para trabalho manual sentado ou que tenha de ser feito em pé, deve ser proporcionado ao trabalhador mobiliário que atenda ao capítulo 17.6 Mobiliário dos postos de trabalho da Norma Regulamentadora nº 17 (NR 17) e que permita variações posturais, com ajustes de fácil acionamento, de modo a prover espaço suficiente para seu conforto, atendendo aos seguintes requisitos:
+a) o monitor de vídeo e o teclado devem estar apoiados em superfícies com mecanismos de regulagem independentes;
+b) será aceita superfície regulável única para teclado e monitor quando este for dotado de regulagem independente de, no mínimo, 26 cm (vinte e seis centímetros) no plano vertical;
+c) a bancada sem material de consulta deve ter, no mínimo, profundidade de 75 cm (setenta e cinco centímetros), medidos a partir de sua borda frontal, e largura de 90 cm (noventa centímetros) que proporcionem zonas de alcance manual de, no máximo, 65 cm (sessenta e cinco centímetros) de raio em cada lado, medidas centradas nos ombros do operador em posição de trabalho;
+d) a bancada com material de consulta deve ter, no mínimo, profundidade de 90 cm (noventa centímetros) a partir de sua borda frontal e largura de 100 cm (cem centímetros) que proporcionem zonas de alcance manual de, no máximo, 65 cm (sessenta e cinco centímetros) de raio em cada lado, medidas centradas nos ombros do operador em posição de trabalho, para livre utilização e acesso de documentos;
+e) o plano de trabalho deve ter bordas arredondadas;
+f) as superfícies de trabalho devem ser reguláveis em altura em um intervalo mínimo de 13 cm (treze centímetros), medidos de sua face superior, permitindo o apoio das plantas dos pés no piso;
+g) o dispositivo de apontamento na tela (mouse) deve estar apoiado na mesma superfície do teclado, colocado em área de fácil alcance e com espaço suficiente para sua livre utilização;
+h) o espaço sob a superfície de trabalho deve ter profundidade livre mínima de 45 cm (quarenta e cinco centímetros) ao nível dos joelhos e de 70 cm (setenta centímetros) ao nível dos pés, medidos de sua borda frontal;
+i) nos casos em que os pés do operador não alcancem o piso, mesmo após a regulagem do assento, deve ser fornecido apoio para os pés que se adapte ao comprimento das pernas do trabalhador, permitindo o apoio das plantas dos pés, com inclinação ajustável e superfície revestida de material antiderrapante; e
+j) os assentos devem ser dotados de:
+1 - apoio em 05 (cinco) pés, com rodízios cuja resistência evite deslocamentos involuntários e que não comprometam a estabilidade do assento;
+II - superfícies onde ocorre contato corporal estofadas e revestidas de material que permita a perspiração;
+III - base estofada com material de densidade entre 40 (quarenta) a 50 (cinquenta) kg/m³;
+IV altura da superfície superior ajustável, em relação ao piso, entre 37 cm (trinta e sete centímetros) e 50 cm (cinquenta centímetros), podendo ser adotados até três tipos de cadeiras com alturas diferentes, de forma a atender as necessidades de todos os operadores;
+V - profundidade útil de 38 cm (trinta e oito centímetros) a 46 cm (quarenta e seis centímetros);
+VI - borda frontal arredondada;
+VII - características de pouca ou nenhuma conformação na base;
+VIII encosto ajustável em altura e em sentido anteroposterior, com forma levemente adaptada ao corpo para proteção da região lombar;
+IX - largura de, no mínimo, 40 cm (quarenta centímetros) e, com relação aos encostos, de no mínimo, 30,5 cm (trinta vírgula cinquenta centímetros); e
+X apoio de braços regulável em altura de 20 cm (vinte centímetros) a 25 cm (vinte e cinco centímetros) a partir do assento, sendo que seu comprimento não deve interferir no movimento de aproximação da cadeira em relação à mesa, nem nos movimentos inerentes à execução da tarefa.  
+
+4.3 Os monitores de vídeo devem proporcionar corretos ângulos de visão e ser posicionados frontalmente ao operador, devendo ser dotados de regulagem que permita o correto ajuste da tela à iluminação do ambiente, protegendo o trabalhador contra reflexos indesejáveis.
+
